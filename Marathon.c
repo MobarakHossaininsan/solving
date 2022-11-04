@@ -5,6 +5,7 @@ int main()
     scanf("%d",&n);
     while(n--)
     {
+        //Mobarak Hossain Insan
         scanf("%d%d%d%d",&a,&b,&c,&d);
          if(a<b && a<c && a<d)
              printf("3\n");
